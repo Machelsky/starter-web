@@ -2,6 +2,7 @@
 Rebasing example
 This repository is for showing how Git and GitHub work
 Adding one line for reabasing
+one more
 ## Purpose
 
 ## Third
